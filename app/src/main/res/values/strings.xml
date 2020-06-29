@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cookie Finder (Solution)</string>
+
+    <string name="title_activity_game">GameActivity</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="help">Help</string>
+    <string name="options">Options</string>
+    <string name="game">Game</string>
+    <string name="found_mines">Found %1$d of %2$d mines.</string>
+    <string name="scans_used"># Scans used: %1$d</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="written_by_text">Written by Brian Fraser for CMPT 276, on loan to Jack Thomas for Summer 2020 ( https://opencoursehub.cs.sfu.ca/jackt/grav-cms/cmpt276/home )</string>
+    <string name="dialog_message">Good work finding all the cookies! Remember to share.</string>
+    <string name="select_number_mines">Select Number Mines</string>
+    <string name="select_board_size">Select Board Size</string>
+    <string name="help_game_directions">When playing the game, click on areas of the game to search for a cookie. If you find one, great! Otherwise you\'ll start off a scan to count how many cookies are in that row or column. You can also click a cookie to have it scan its row and column for other hidden cookies.</string>
+    <string name="author">Author</string>
+    <string name="resources">Resources</string>
+    <string name="help_resource_text">Icons by Everaldo Coelho ( http://www.everaldo.com/ ), images from Shutter Stock ( www.shutterstock.com ).</string>
+    <string name="cookie_sweeper">Cookie Sweeper</string>
+    <string name="smiling_face">Smiling face</string>
+    <string name="help_button">Help</string>
+    <string name="options_button">Options</string>
+    <string name="play_game_button">Play Game</string>
+    <string name="by_brian_fraser">by Brian Fraser (who retains full credit), borrowed by Jack Thomas</string>
+    <string name="main_menu_button">Main Menu</string>
+    <string name="cookie_finder_solution">Cookie Finder (Solution)</string>
+    <string name="options_mines">%1$d mines</string>
+    <string name="options_board_size">%1$d rows x %2$d columns</string>
+</resources>

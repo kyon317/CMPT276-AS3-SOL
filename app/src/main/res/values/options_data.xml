@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="num_mines">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+    <integer name="default_num_mines">10</integer>
+
+    <integer-array name="board_size_rows">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="board_size_cols">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+    <integer name="default_board_size_rows">5</integer>
+    <integer name="default_board_size_cols">10</integer>
+</resources>
